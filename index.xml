@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java Magazine</title>
+    <link>https://masakikun.github.io/java-magazine/</link>
+    <description>Recent content on Java Magazine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 03 Jun 2015 00:00:00 +0900</lastBuildDate><atom:link href="https://masakikun.github.io/java-magazine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>자바 카드란 무엇인가?</title>
+      <link>https://masakikun.github.io/java-magazine/post/what-is-java-card/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://masakikun.github.io/java-magazine/post/what-is-java-card/</guid>
+      <description>이 질문답변은 몇 가지 부가적인 질문에 대한 답변을 포함하는 답변입니다.
+자바 카드는 스마트 카드를 대상으로 하는 자바의 하위 집합입니다. 자바 카드 기술은 Secure MCU로 알려진 특정 하드웨어에서 실행되는 스마트 카드 및 관련 시스템을 대상으로 하는 특정 자바 플랫폼입니다. 자바 카드 플랫폼은 설치 공간이 매우 작으며, 인증 자격 증명(PIN) 및 암호화를 관리하기 위한 전용 API를 사용하는 보안 애플리케이션을 대상으로 합니다.
+이 아이디어는 언제, 왜 나왔나요? 자바 카드의 첫번째 버전은 1996년에 만들어졌으며, 1998년에 자바 카드 2.</description>
+    </item>
+    
+  </channel>
+</rss>
